@@ -73,7 +73,7 @@ class App extends Component {
                           value={this.state.amountReceived}
                           onChange={this.handleAmountReceived}
                           step="0.01"
-                          id="inputAmountReceived"
+                          id="amountReceived"
                           placeholder="Amount Received"
                         />
                       </div>
